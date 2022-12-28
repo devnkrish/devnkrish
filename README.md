@@ -1,7 +1,9 @@
 ![header_banner-2](https://user-images.githubusercontent.com/60639476/209827680-80f2d253-b806-4f65-a3f9-d4715ab5b467.jpg)
 
 <h1 align="center">Hi 👋, I'm Krishnendu Nanda</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A dedicated Full Stack Developer</h3>
+
+![coding](https://user-images.githubusercontent.com/60639476/209827959-ba086359-1b95-49c6-941b-2f52031c5732.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
