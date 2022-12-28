@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/@babai17554686" target="blank"><img src="https://img.shields.io/twitter/follow/@babai17554686?logo=twitter&style=for-the-badge" alt="@babai17554686" /></a> </p>
 
-- 🔭 I’m currently working on [Online Railway Reservation System]
+- 🔭 I’m currently working on **Online Railway Reservation System (OR2S)**
 
 - 🌱 I’m currently learning **React Js, Vite Js**
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
-- 🤝 I’m looking for **Back-End Developer**
+- 🤝 I’m looking for **Back-End Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://dev-krish-portfolio.netlify.app/](https://dev-krish-portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN, LARAVEL**
+- 💬 Ask me about **WEB DEVELOPEMENT**
 
 - 📫 How to reach me **nkrishnendu101@gmail.com**
 
