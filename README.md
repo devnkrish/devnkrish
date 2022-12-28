@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@babai17554686" target="blank"><img src="https://img.shields.io/twitter/follow/@babai17554686?logo=twitter&style=for-the-badge" alt="@babai17554686" /></a> </p>
 
-- 🔭 I’m currently working on [Multi-Vendor Ecommerce App](https://n-kart.netlify.app/)
+- 🔭 I’m currently working on [Online Railway Reservation System]
 
 - 🌱 I’m currently learning **React Js, Vite Js**
 
-- 👯 I’m looking to collaborate on **Backend Developer**
+- 👯 I’m looking to collaborate on **MERN STACK**
 
-- 🤝 I’m looking for help with **OR2S**
+- 🤝 I’m looking for **Back-End Developer**
 
 - 👨‍💻 All of my projects are available at [https://dev-krish-portfolio.netlify.app/](https://dev-krish-portfolio.netlify.app/)
 
@@ -21,13 +21,13 @@
 
 - 📫 How to reach me **nkrishnendu101@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [React-Portfolio](https://dev-krish-portfolio.netlify.app/)
 
 - ⚡ Fun fact **Focus on Yourself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@babai17554686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@babai17554686" height="30" width="40" /></a>
+<a href="https://twitter.com/babai17554686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@babai17554686" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krishnendu-nanda-a878a7201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishnendu-nanda-a878a7201/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/krishnendu.nanda.921/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/krishnendu.nanda.921/" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_krish2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_krish2.0" height="30" width="40" /></a>
