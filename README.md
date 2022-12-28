@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Krishnendu Nanda</h1>
 <h3 align="center">A dedicated Full Stack Developer</h3>
 
-<center>![coding](https://user-images.githubusercontent.com/60639476/209827959-ba086359-1b95-49c6-941b-2f52031c5732.gif)</center>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@babai17554686" target="blank"><img src="https://img.shields.io/twitter/follow/@babai17554686?logo=twitter&style=for-the-badge" alt="@babai17554686" /></a> </p>
