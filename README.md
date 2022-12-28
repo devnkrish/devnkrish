@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishnendu Nanda</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+![coding](https://user-images.githubusercontent.com/60639476/209825508-3733f448-c6f3-45a9-bf88-fe590633fe13.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
