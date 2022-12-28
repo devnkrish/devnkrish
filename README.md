@@ -1,4 +1,4 @@
-![full-stack-development](https://user-images.githubusercontent.com/60639476/209826078-ceee912e-86fa-4659-a22f-76681bebe1f0.gif)
+![skills-for-front-end-back-end-developer](https://user-images.githubusercontent.com/60639476/209826479-649dea17-6dbc-4a84-a2c2-c081181fcd8e.jpg)
 
 <h1 align="center">Hi 👋, I'm Krishnendu Nanda</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
