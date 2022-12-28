@@ -1,4 +1,4 @@
-![Phoenix-Banner-Image](https://user-images.githubusercontent.com/60639476/209825865-8254f55e-006d-4476-bb0b-19bf734b1dd7.jpg)
+![full-stack-development](https://user-images.githubusercontent.com/60639476/209826078-ceee912e-86fa-4659-a22f-76681bebe1f0.gif)
 
 <h1 align="center">Hi 👋, I'm Krishnendu Nanda</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
