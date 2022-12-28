@@ -1,18 +1,19 @@
-![skills-for-front-end-back-end-developer](https://user-images.githubusercontent.com/60639476/209826479-649dea17-6dbc-4a84-a2c2-c081181fcd8e.jpg)
+![header_banner-2](https://user-images.githubusercontent.com/60639476/209827680-80f2d253-b806-4f65-a3f9-d4715ab5b467.jpg)
 
 <h1 align="center">Hi 👋, I'm Krishnendu Nanda</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnkrish" alt="devnkrish" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@babai17554686" target="blank"><img src="https://img.shields.io/twitter/follow/@babai17554686?logo=twitter&style=for-the-badge" alt="@babai17554686" /></a> </p>
 
 - 🔭 I’m currently working on [Multi-Vendor Ecommerce App](https://n-kart.netlify.app/)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js, Vite Js**
+
+- 👯 I’m looking to collaborate on **Backend Developer**
+
+- 🤝 I’m looking for help with **OR2S**
 
 - 👨‍💻 All of my projects are available at [https://dev-krish-portfolio.netlify.app/](https://dev-krish-portfolio.netlify.app/)
 
@@ -20,9 +21,16 @@
 
 - 📫 How to reach me **nkrishnendu101@gmail.com**
 
+- 📄 Know about my experiences [resume](resume)
+
+- ⚡ Fun fact **Focus on Yourself**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@babai17554686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@babai17554686" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krishnendu-nanda-a878a7201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishnendu-nanda-a878a7201/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/krishnendu.nanda.921/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/krishnendu.nanda.921/" height="30" width="40" /></a>
+<a href="https://instagram.com/dev_krish2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_krish2.0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
