@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for **Back-End Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://dev-krish-portfolio.netlify.app/](https://dev-krish-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ncoder.netlify.app/](https://ncoder.netlify.app/)
 
 - 💬 Ask me about **WEB DEVELOPEMENT**
 
 - 📫 How to reach me **nkrishnendu101@gmail.com**
 
-- 📄 Know about my experiences [React-Portfolio](https://dev-krish-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://ncoder.netlify.app/](https://ncoder.netlify.app/)
 
 - ⚡ Fun fact **Focus on Yourself**
 
