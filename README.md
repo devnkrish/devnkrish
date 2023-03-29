@@ -1,17 +1,17 @@
 ![header_banner-2](https://user-images.githubusercontent.com/60639476/209827680-80f2d253-b806-4f65-a3f9-d4715ab5b467.jpg)
 
-<h1 align="center">Hi There! 👋, Welcome to my Git</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi There! 👋, Welcome to My Hub!!</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@babai17554686" target="blank"><img src="https://img.shields.io/twitter/follow/@babai17554686?logo=twitter&style=for-the-badge" alt="@babai17554686" /></a> </p>
 
-- 🔭 I’m currently working on **OR2S - Online Railway Reservation System**
+- 🔭 I’m currently working on college project **OR2S - Online Railway Reservation System**
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **TypeScript**
+- 👯 I’m looking to collaborate on **Software Developer**
 
 - 🤝 I’m looking for **Node JS Developer**
 
