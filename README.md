@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **nkrishnendu101@gmail.com**
 
-- 📄 Know about my experiences [https://ncoder.netlify.app/](https://ncoder.netlify.app/)
+- 📄 Know about my website [https://softnfix.netlify.app/](https://softnfix.netlify.app/)
 
-- ⚡ Fun fact **Focus on JS**
+- ⚡ Fun fact **Focus on Doctorate Degree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
