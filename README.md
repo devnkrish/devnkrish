@@ -1,31 +1,31 @@
 ![header_banner-2](https://user-images.githubusercontent.com/60639476/209827680-80f2d253-b806-4f65-a3f9-d4715ab5b467.jpg)
 
-<h1 align="center">Hi There! 👋, Welcome to My Universe!!</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi There! 👋, Welcome to My JSX !!</h1>
+<h3 align="center">JSX Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@babai17554686" target="blank"><img src="https://img.shields.io/twitter/follow/@babai17554686?logo=twitter&style=for-the-badge" alt="@babai17554686" /></a> </p>
+- 👨‍💻 I’m currently working on **Next JS & Tailwind CSS**
+
+- 👨‍💻 Developing various website using **React JS & Bootstrap**
+  
+- 👨‍💻 All of my projects are available at [https://ncoder.netlify.app/](https://ncoder.netlify.app/)
 
 - 📄 Coding & Educational Guide Project [https://codinguide.netlify.app/](https://codinguide.netlify.app/)
   
 - 🔭 My college project **OR2S - Online Railway Reservation System**
 
-- 🌱 I’m currently working on **Next JS & Tailwind CSS**
-
 - 👯 I’m looking to collaborate on **React Developer & React Native**
 
 - 🤝 I’m looking for **Node JS Developer**
-
-- 👨‍💻 All of my projects are available at [https://ncoder.netlify.app/](https://ncoder.netlify.app/)
 
 - 💬 Ask me about **WEB & MOBILE APPLICATION**
 
 - 📫 How to reach me **nkrishnendu101@gmail.com**
 
-- ⚡ Fun fact **Focus on Doctorate Degree**
+- ⚡ Fun fact **Hybrid Application Development**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Developing with</h3>
 <p align="left"> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
