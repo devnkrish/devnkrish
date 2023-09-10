@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi There! 👋, I'm Nanda!!</h1>
 <h3 align="center">Passionate Web Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
 <h1 align="left">About Me</h1>
 
@@ -27,7 +26,7 @@
 
 - ⚡ Fun fact **Hybrid Application Development**
 
-<h1 align="left">Tech Stack</h1>
+<h1 align="left">Developing with</h1>
 <p align="left"> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
