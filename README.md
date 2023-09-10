@@ -1,4 +1,3 @@
-![header_banner-2](https://www.fiverr.com/santoshsahu7/create-website-using-react-next-js-and-tailwind-css)
 
 <h1 align="center">Hi There! 👋, Welcome to My JSX !!</h1>
 <h3 align="center">JSX Web Developer</h3>
