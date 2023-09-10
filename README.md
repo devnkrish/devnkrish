@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@babai17554686" target="blank"><img src="https://img.shields.io/twitter/follow/@babai17554686?logo=twitter&style=for-the-badge" alt="@babai17554686" /></a> </p>
 
-- 🔭 I’m currently working on college project **OR2S - Online Railway Reservation System**
+- 📄 Coding & Educational Guide Project [https://codinguide.netlify.app/](https://codinguide.netlify.app/)
+  
+- 🔭 My college project **OR2S - Online Railway Reservation System**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **Next JS & Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Software Developer**
+- 👯 I’m looking to collaborate on **React Developer & React Native**
 
 - 🤝 I’m looking for **Node JS Developer**
 
@@ -20,8 +22,6 @@
 - 💬 Ask me about **WEB & MOBILE APPLICATION**
 
 - 📫 How to reach me **nkrishnendu101@gmail.com**
-
-- 📄 Know about my website [https://softnfix.netlify.app/](https://softnfix.netlify.app/)
 
 - ⚡ Fun fact **Focus on Doctorate Degree**
 
