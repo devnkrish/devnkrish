@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
-- 👨‍💻 I’m currently working on **Next JS & Tailwind CSS**
+- 👨‍💻 I’m currently working on **Next 13 & Tailwind CSS**
 
 - 👨‍💻 Developing various website using **React JS & Bootstrap**
   
