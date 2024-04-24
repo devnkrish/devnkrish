@@ -1,6 +1,6 @@
 ![next_react_tailwind](https://github.com/devnkrish/devnkrish/assets/60639476/a9ba57a6-b7ae-4b5e-888d-0adfb9e4fd6c)
 
-<h1 align="center">Hi There! 👋, Welcome to ncoder!</h1>
+<h1 align="center">Hi There! 👋, Welcome Coder!!</h1>
 <h3 align="center">React Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
@@ -16,15 +16,15 @@
   
 - 🔭 My college project **OR2S - Online Railway Reservation System**
 
-- 👯 I’m looking to collaborate on **React Developer & React Native**
+- 👯 I’m looking to collaborate on **MongoDB Expert**
 
 - 🤝 I’m looking for **Node JS Developer**
 
-- 💬 Ask me about **WEB & MOBILE APPLICATION**
+- 💬 Ask me about **Cross-Platform Applications**
 
-- 📫 How to reach me **nkrishnendu101@gmail.com**
+- 📫 How to reach me **knanda.cs@gmail.com**
 
-- ⚡ Fun fact **Hybrid Application Development**
+- ⚡ Fun fact **Let's Enjoy!**
 
 <h1 align="left">Developing with</h1>
 <p align="left"> 
