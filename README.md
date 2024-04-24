@@ -1,7 +1,7 @@
 ![next_react_tailwind](https://github.com/devnkrish/devnkrish/assets/60639476/a9ba57a6-b7ae-4b5e-888d-0adfb9e4fd6c)
 
 <h1 align="center">Hi There! 👋, I'm Nanda!!</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">React Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devnkrish&label=Profile%20views&color=0e75b6&style=flat" alt="devnkrish" /> </p>
 
 <h1 align="left">About Me</h1>
